@@ -1,0 +1,12 @@
+[Desktop Entry]
+Encoding=UTF-8
+Name=OneWorld
+Comment=OneWorld P2P Cryptocurrency
+Comment[fr]=OneWorld, monnaie virtuelle cryptographique pair à pair
+Comment[tr]=OneWorld, eşten eşe kriptografik sanal para birimi
+Exec=oneworld-qt %u
+Terminal=false
+Type=Application
+Icon=oneworld128
+MimeType=x-scheme-handler/oneworld;
+Categories=Office;Finance;
