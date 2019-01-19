@@ -41,7 +41,7 @@ The following are developer notes on how to build OneWorld on your native platfo
 
 Development
 ---------------------
-The OneWorld repo's [root README](https://github.com/eastcoastcrypto/OneWorld/blob/master/README.md) contains relevant information on the development process and automated testing.
+The OneWorld repo's [root README](https://github.com/OneWorldCoin/owo/blob/master/README.md) contains relevant information on the development process and automated testing.
 
 - [Developer Notes](developer-notes.md)
 - [Multiwallet Qt Development](multiwallet-qt.md)
