@@ -29,7 +29,6 @@ Drag OneWorld-Qt to your applications folder, and then run OneWorld-Qt.
 * See the documentation at the [OneWorld Wiki](https://en.bitcoin.it/wiki/Main_Page) ***TODO***
 for help and more information.
 * Ask for help on [BitcoinTalk](https://bitcointalk.org/index.php) or on the [OneWorld Forum](http://OneWorldcoin.com/).
-* Join one of our Discord groups [OneWorld Discord Groups](https://discord.gg/YcnvMqt).
 
 Building
 ---------------------
@@ -56,7 +55,6 @@ The OneWorld repo's [root README](https://github.com/OneWorldCoin/owo/blob/maste
 ### Resources
 
 * Discuss on the [BitcoinTalk](https://bitcointalk.org/index.php?topic=1262920.0) .
-* Join the [OneWorld-Dev] Discord groups [OneWorld Discord Groups](https://discord.gg/YcnvMqt).
 
 ### Miscellaneous
 - [Assets Attribution](assets-attribution.md)
